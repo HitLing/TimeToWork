@@ -1,0 +1,68 @@
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\bin\Debug\net6.0\BLL.dll
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\bin\Debug\net6.0\BLL.pdb
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\Дмитрий\source\repos\BikeShop\DAL\obj\Debug\net6.0\ref\DAL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\bin\Debug\net6.0\DAL.deps.json
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\bin\Debug\net6.0\DAL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\bin\Debug\net6.0\DAL.pdb
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\bin\Debug\net6.0\BLL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\bin\Debug\net6.0\BLL.pdb
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\obj\Debug\net6.0\DAL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\obj\Debug\net6.0\refint\DAL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\obj\Debug\net6.0\DAL.pdb
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\DAL\obj\Debug\net6.0\ref\DAL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\bin\Debug\net6.0\DAL.deps.json
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\bin\Debug\net6.0\DAL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\bin\Debug\net6.0\DAL.pdb
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\bin\Debug\net6.0\BLL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\bin\Debug\net6.0\BLL.pdb
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\obj\Debug\net6.0\DAL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\obj\Debug\net6.0\refint\DAL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\obj\Debug\net6.0\DAL.pdb
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\bin\Debug\net6.0\BLL.dll
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\bin\Debug\net6.0\BLL.pdb
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\DAL\obj\Debug\net6.0\ref\DAL.dll

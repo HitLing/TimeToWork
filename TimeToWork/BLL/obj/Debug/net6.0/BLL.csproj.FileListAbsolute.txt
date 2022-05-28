@@ -1,0 +1,56 @@
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+C:\Users\Дмитрий\source\repos\BikeShop\BLL\obj\Debug\net6.0\ref\BLL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\bin\Debug\net6.0\BLL.deps.json
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\bin\Debug\net6.0\BLL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\bin\Debug\net6.0\BLL.pdb
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\obj\Debug\net6.0\BLL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\obj\Debug\net6.0\refint\BLL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\obj\Debug\net6.0\BLL.pdb
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\BikeShop\BLL\obj\Debug\net6.0\ref\BLL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\bin\Debug\net6.0\BLL.deps.json
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\bin\Debug\net6.0\BLL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\bin\Debug\net6.0\BLL.pdb
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\obj\Debug\net6.0\BLL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\obj\Debug\net6.0\refint\BLL.dll
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\obj\Debug\net6.0\BLL.pdb
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+J:\ИГЭУ обучение\6 семестр\Конструирование интернет-приложений Садыков\LearnAgain\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+C:\Users\asoon\Downloads\LearnAgain\LearnAgain\BLL\obj\Debug\net6.0\ref\BLL.dll
